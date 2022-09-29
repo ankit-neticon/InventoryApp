@@ -9,8 +9,7 @@ This app demonstrated
 the use of Android Jetpack component [Room](https://developer.android.com/training/data-storage/room) database.  
 
 
-
-Getting Started
+# Dowload
 ---------------
 
 1. Download the app through this link-->
